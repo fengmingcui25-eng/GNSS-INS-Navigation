@@ -19,11 +19,18 @@ This repository contains core algorithms for modern navigation systems:
   - **RTK**: Carrier-phase Real-Time Kinematic positioning for high-precision solutions.
 - **Ambiguity Resolution**: Integrated **LAMBDA** algorithm for integer ambiguity fixing.
 - **Satellite Geometry**: Computation of satellite positions and clock errors.
+<img width="1527" height="353" alt="17" src="https://github.com/user-attachments/assets/68ee02c4-254b-48ce-801a-9fc13c6736a5" />
+<img width="1567" height="354" alt="18" src="https://github.com/user-attachments/assets/7f4284f1-c745-4cbd-b31c-d1a35afe199b" />
+<img width="1545" height="353" alt="19" src="https://github.com/user-attachments/assets/fa48ad0c-a377-47e2-abca-a3a40ddaecd4" />
+
 
 ### 2. INS Mechanization (`/INS_Mechanization`)
 - **Earth Model**: WGS-84 ellipsoidal model implementation.
 - **Rotation & Quaternions**: Robust attitude representation using Quaternions and Rotation Matrices to avoid singularity.
 - **State Update**: Mechanization equations for updating position, velocity, and attitude based on IMU inputs.
+<img width="416" height="208" alt="image" src="https://github.com/user-attachments/assets/5b309c89-3874-42f2-b616-adcf2a9f9c61" />
+<img width="416" height="208" alt="image" src="https://github.com/user-attachments/assets/8946ada6-5765-410e-a715-3014fff37287" />
+
 
 ## Dependencies
 
